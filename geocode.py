@@ -1,6 +1,6 @@
 '''
 This program uses the bing api to get latitude and longitude
-for a list of cities and write them to an output file.
+for a list of cities, and writes the data to an output file.
 
 Author: Amanda Hanway
 Date: 2/12/23
@@ -15,7 +15,7 @@ import geocoder
 import csv
 import sys
 
-bing_api_key = 'AsLy66I_NnXlVlHcXGTuy63sSthj0uhwWUEUCZY69FFjtc60gXJYYiuxOdbdAPq9'
+bing_api_key = '[removed]'
 input_file = 'cities.csv'
 output_file = 'cities_output.csv'
 output_list = []
