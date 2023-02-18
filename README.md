@@ -1,15 +1,15 @@
 # Missouri UFO Sightings Dashboard  
-- Description: A Power BI report built on data from [National UFO Reporting Center]( https://nuforc.org/)  
-- Created: 2/18/23  
+A Power BI report built on data from [National UFO Reporting Center]( https://nuforc.org/)  
+Created 2/18/23  
 
-### Dashboard:  
-![Dashboard](\Supporting_files\Dashboard.png)  
+#### Dashboard:  
+![Dashboard](supporting_files/Dashboard.png)  
 
-### Detail View:
-![Detail](\Supporting_files\Detail.png)  
+#### Detail View:
+![Detail](supporting_files/Detail.png)  
 
 ## Overview:
-This project was completed as a demonstration of a typical report that I would create professionally.  
+This project was completed as a demonstration of a typical report that I would create professionally ...  
 
 #### Dashboard:
 The Dashboard presents visualizations for ...
@@ -40,9 +40,12 @@ Slicers:
 #### Report Detail:
 The Report Detail page provides the detailed submission for each sighting.  
 
+#### Development Approach:
+
+
 #### Enhancement Opportunities:
 The following are areas for improvement with future updates:
-- 
+- x
 
 
 
