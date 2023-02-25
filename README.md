@@ -1,5 +1,5 @@
 # Missouri UFO Sightings Dashboard  
-A Power BI report built on data from [National UFO Reporting Center]( https://nuforc.org/)  
+A Power BI report built on data from National UFO Reporting Center  
 Created 2/18/23  
 
 #### Dashboard:  
@@ -68,7 +68,9 @@ The following are areas for improvement with future updates:
 - Improve geocode script - many cities did not pull coordinates due to misspellings or unrecognized formatting.
 - Improve extraction of duration time - write a python script to replace formulas to extract numbers from text.
   
-Logo and header image are credited to NUFORC.org  
+#  
+Logo and header image are credited to National UFO Reporting Center  
+https://www.NUFORC.org/   
 
 
 
